@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '244460646:AAFxtf8baikviDsj39FJfVG0RmR6j3n08q8',
+	bot_api_key = '244460646:AAFxtf8baikviDsj39FJfVG0RmR6j3n08q8', --Do not hack my bot with token asshole
 	version = '3.1', -- /aupdate for v3.1
 	testing_mode = false,
 	admin = {
