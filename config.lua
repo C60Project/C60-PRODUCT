@@ -10,7 +10,7 @@ return {
 		}
 	},
 	log_chat = -1001057801239,
-	channel = @Ev_official', --channel username with the '@'
+	channel = '@Ev_official', --channel username with the '@'
 	help_group = 'https://telegram.me/joinchat/Cvfk1EDRD4_pTQGom2Y0qw', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
